@@ -1,6 +1,8 @@
 
 # An Arduino robot that can detect parking spots and park itself
 
+![](https://i.giphy.com/media/3NwTtW3AngBv1Kk7LH/giphy.webp)
+
 *By 2 Fast 2 Autonomous :*
  - Berkay Giriş [![Berkay Giris - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/Bgiris) [![Berkay Giris - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/berkay-giri%C5%9F-9b5a3b100) [![Berkay Giris - WebPage](https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/home-16.png)](https://web.itu.edu.tr/girisb/)
  - Birkan Denizer [![Birkan Denizer - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/birkandenizer) [![Birkan Denizer - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/birkandenizer/) [![Birkan Denizer - WebPage](https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/home-16.png)](https://web.itu.edu.tr/denizerb/)
@@ -55,6 +57,7 @@ For the electrical part, we chose Arduino to control the whole process. The reas
 
 We decided to work with ultrasonic sensors to determine the distance of the walls around or along the path of the vehicle and detecting the parking spot. For detecting parking spots, we inspired from Ford&#39;s design shown in the Figure 6. As shown in the Figure 4 we needed three sensors in the side to detect the parking slot, and three sensors each for front and rear to detect walls or obstacles while driving the car.
 In summary, we designed our car as in the Figure 7. In the light of the given design details the full requirements list is given in Table 1.
+
 ![](img/figure7.png)
 
 | **Amount**  | **Component**  |
