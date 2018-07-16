@@ -11,10 +11,6 @@
 
 *2017-12-25*
 
-**Table of Contents**
-
-[TOC]
-
 ## 1. Abstract
 
 In this project, we have built a robot car that can autonomously park itself. The problems that we worked on were safe exploration and object avoiding in order to detect a parking spot that robot car can fit and park autonomously into that spot.
