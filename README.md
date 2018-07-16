@@ -7,7 +7,7 @@
  - Alperen Özkan [![Alperen Özkan - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/alperenozkn) [![Alperen Özkan - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/m-alperen-ozkan/)
  - Mustafa Furkan Süve [![Mustafa Furkan Süve - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/mfsuve) [![Mustafa Furkan Süve - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/mustafa-furkan-s%C3%BCve-080b14119/)
  - Salih Can Yurtkulu [![Salih Can Yurtkulu - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/yurtkulusalih) [![Salih Can Yurtkulu - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/salih-can-yurtkulu-aa6239140/)
- - Sergen Kayıkçı [![Sergen Kayıkçı - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/sergen-kayikci-98885312a/)
+ - Sergen Kayıkçı [![Sergen Kayıkçı - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/sergennn) [![Sergen Kayıkçı - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/sergen-kayikci-98885312a/)
 
 *2017-12-25*
 
