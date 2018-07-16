@@ -198,30 +198,45 @@ We had problems while realizing our proposed project because of the real world c
 
 ### 7.1. Lagged acting
 **Expectation:** We expected our autonomous car to move smoothly.
+
 **Acknowledgement:** We have 10 sensors on our car. We take all sensor data as an array. If the distance measured by the sensor is long, it takes more time to return. In order to move according to the correct distance data, we set a delay so car uses the incoming sensor data rather than the old one.
+
 **Improvement:** At the work package 2, we designed a new algorithm for taking the sensor data. It simply ignores the data coming from the sensors that has latency more than our fixed threshold.
 
 ### 7.2. Insufficient power for turning wheels left or right
 **Expectation:** We thought our servo is powerful enough.
+
 **Acknowledgement:** Our servo was insufficient.
+
 **Improvement:** We bought a new one with more torque, yet we noticed that we made a trade off in means of power and space.
 
 ### 7.3. Angled movement instead of perfectly straight movement
 **Expectation:** We expected our car to move forward straight:
+
 **Acknowledgement:** Because of our imperfect Ackerman steering, our car does not move forward straight. We built our Ackerman steering mechanism from wooden pieces. Extracting the necessary parts from the wooden plate was hard for us because of our insufficient material. In addition, Ackerman steering has moving parts, friction between these parts was one the reasons for angled movement.
+
 **Improvement:** We set our servo angles according to our imperfect Ackerman steering system. For example, we set 92 degrees instead of 90 degrees.
+
 ### 7.4. Erroneous movements while detecting the parking spot
 **Expectation:** We expected to detect parking spot easily.
+
 **Acknowledgement:** Our car sometimes moves erroneous because of the incorrect sensor data and incorrect calculation for the length of the parking spot. We tried different methods like mean filtering to eliminate noisy data coming from sensors but we could not achieved it. Because of the limited computational power of the Arduino, these operations caused intolerable delays.
+
 **Improvement:** We used simple methods like creating thresholds instead of filtering.
+
 ### 7.5. Erroneous calculation for the length of the parking spot
 **Expectation:** We expected to calculate the length of the parking spot easily.
+
 **Acknowledgement:** We could not calculate the length of the parking spot correctly, because we do not know the speed of the car.
+
 ### 7.6. Unknown speed
 **Expectation:** We expected to calculate the speed with dividing the distance between our two side sensors to the elapsed time between the distance changes on side sensors.
+
 **Acknowledgement:** We calculated the speed with this method but, when we used this speed for calculating the parking spot&#39;s length, results were unrealistic.
+
 ### 7.7. Dynamic delay length after finding the parking spot according to battery power
 **Expectation:** We expected to position the car with no problem after detecting parking spot.
+
 **Acknowledgement:** We used a delay for positioning the car before parking routine. With this delay, after detection of the parking spot, car moves a little bit more but car’s speed changes according to battery power. So same delay has different effects according to battery power. We do not know a way for calculating the battery power so we could not set a dynamic delay length.
 
 ## 8. References
