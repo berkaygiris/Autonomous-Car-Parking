@@ -2,12 +2,12 @@
 # An Arduino robot that can detect parking spots and park itself
 
 *By 2 Fast 2 Autonomous :*
- - Berkay Giriş
- - Birkan Denizer
- - Muhammed Alperen Özkan
- - Mustafa Furkan Süve
- - Salih Can Yurtkulu
- - Sergen Kayıkçı
+ - Berkay Giriş [![Berkay Giris - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/Bgiris) [![Berkay Giris - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/berkay-giri%C5%9F-9b5a3b100) [![Berkay Giris - WebPage](https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/home-16.png)](https://web.itu.edu.tr/girisb/)
+ - Birkan Denizer [![Birkan Denizer - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/birkandenizer) [![Birkan Denizer - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/birkandenizer/) [![Birkan Denizer - WebPage](https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/home-16.png)](https://web.itu.edu.tr/denizerb/)
+ - Alperen Özkan [![Alperen Özkan - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/alperenozkn) [![Alperen Özkan - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/m-alperen-ozkan/)
+ - Mustafa Furkan Süve [![Mustafa Furkan Süve - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/mfsuve) [![Mustafa Furkan Süve - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/mustafa-furkan-s%C3%BCve-080b14119/)
+ - Salih Can Yurtkulu [![Salih Can Yurtkulu - GitHub](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-16.png)](https://github.com/yurtkulusalih) [![Salih Can Yurtkulu - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/salih-can-yurtkulu-aa6239140/)
+ - Sergen Kayıkçı [![Sergen Kayıkçı - LinkedIn](https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-16.png)](https://www.linkedin.com/in/sergen-kayikci-98885312a/)
 
 *2017-12-25*
 
