@@ -45,15 +45,21 @@ In terms of hardware, Arduino platform is used in order to control motors and se
 ## 4. Design
 
 The scope of the project consists of a controller for physical actuation of the car and consists of a significant body of work. Our system is based on mainly two parts: Electrical and Mechanical.
+![](img/figure2.png)
 
 While deciding for the dimensions of the car, we came up with some bold calculated measurements and body design (Figure 2). However, our design was always changing and we decided to build a prototype with cardboard at first. So that, we obtained smooth numbers to shape the body (Figure 4). For the mechanical part, we built body of the car from thin wood. We gave shape to the thin wood by cutting and using sandpaper. The reason why we used wood as the body material was wood being solid enough to tolerate electrical component weights without bending.
+![](img/figure3.png)
 
 The other crucial point while designing the body was building Ackermann steering. Since the first application was successful we built another prototype for steering and obtained our measurements from that prototype (Figure 3).
+![](img/figure4.png)
 
 For the electrical part, we chose Arduino to control the whole process. The reason why we chose Arduino is; its being cost efficient for this project, and its components are easy to find/work with. We needed two DC motors to turn the wheels. In addition, we had to use a servomotor for controlling the steering. We designed our car to be rear wheel drive so that we do not have to deal with controlling different speeds for differential front wheel drive.
+![](img/figure5.png)
+![](img/figure6.png)
 
 We decided to work with ultrasonic sensors to determine the distance of the walls around or along the path of the vehicle and detecting the parking spot. For detecting parking spots, we inspired from Ford&#39;s design shown in the Figure 6. As shown in the Figure 4 we needed three sensors in the side to detect the parking slot, and three sensors each for front and rear to detect walls or obstacles while driving the car.
 In summary, we designed our car as in the Figure 7. In the light of the given design details the full requirements list is given in Table 1.
+![](img/figure7.png)
 
 | **Amount**  | **Component**  |
 | :------------ | :------------ |
@@ -93,6 +99,7 @@ In summary, we designed our car as in the Figure 7. In the light of the given de
 		Weight: 26g
 
 	Connections:
+![](img/figure8.png)
 
 3. **Dc Motors:** DC motor is a machine that converts electrical energy into mechanical energy. We used two DC motors for rear wheels.
 
@@ -113,6 +120,7 @@ In summary, we designed our car as in the Figure 7. In the light of the given de
 			Motor Degree: 180°
 
 	Connections:
+![](img/figure9.png)
 
 5. **Wheels:** Wheel is a mechanical component that provides movement. We used two Shopping cart wheels for front and two regular wheels for rear and two L bars to fix front wheels to robot&#39;s body.
 
@@ -139,9 +147,8 @@ In summary, we designed our car as in the Figure 7. In the light of the given de
 		 45mm x 20mm x 15mm
 
 	Connections:
-```
-Figure 10 : Ultrasonic Sensor Connections
-```
+![](img/figure10.png)
+
 7. **Batteries:** Battery is a device that supply power to electrical components. We used 1x 9V battery for Arduino Mega, 4x parallel 9V battery for motor driver and 4x 1,5V serial battery for servo motor.
 
 8. **Ackermann Steering:** Ackermann Steering relates front wheels to each other in order to move around a circle with same angular velocity and different linear velocity. We built our Ackermann steering mechanism by using wooden pieces, bolts, nuts and washers. After calculating the angles and sizes of Ackermann components, we cut the wooden pieces and made holes on them with drill. Then we attached those pieces with bolts, nuts and washers.
